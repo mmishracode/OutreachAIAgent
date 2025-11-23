@@ -1,0 +1,5 @@
+{
+  "name": "OutreachAI Agent",
+  "description": "An AI-powered agent that discovers influencers, agencies, and coaches using Google Search Grounding and automatically drafts personalized outreach emails.",
+  "requestFramePermissions": []
+}
